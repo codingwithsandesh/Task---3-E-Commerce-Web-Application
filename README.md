@@ -8,6 +8,8 @@ Designed and developed for an internship presentation, university evaluation, an
 ## 🌐 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)]([YOUR_LIVE_DEMO_URL](https://task-3-e-commerce-web-application.onrender.com))
+
+**🔗 Live Website:** [View ShopSphere]([YOUR_LIVE_DEMO_URL](https://task-3-e-commerce-web-application.onrender.com))
 ---
 ## 1. Key Features
 
